@@ -23,7 +23,7 @@
 
 |文件|作用|补充|
 |--|--|--|
-|road segmentation.ipynb|code||
+|unet.ipynb|code||
 |unet_graph|网络结构图||
 |Unet_ushape.tex|可视化网络||
 |excel |训练数据||
