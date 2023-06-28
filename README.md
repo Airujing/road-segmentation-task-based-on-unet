@@ -21,12 +21,14 @@
 - 测试方法
 - 实验结果
 
-|文件|作用|补充|
-|--|--|--|
-|unet.ipynb|code||
-|unet_graph|网络结构图||
-|Unet_ushape.tex|可视化网络||
-|excel |训练数据||
+| 文件              | 作用    | 补充  |
+| --------------- | ----- | --- |
+| unet.ipynb      | code  |     |
+| unet_graph      | 网络结构图 |     |
+| Unet_ushape.tex | 可视化网络 |     |
+| excel           | 训练数据  |     |
 
 ---------------------暂更---------------------------------
+详细内容与unetv2.md文件展示
+
 E:airujing@ncist.edu.cn
