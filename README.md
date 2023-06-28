@@ -20,12 +20,13 @@
 - 训练方法
 - 测试方法
 - 实验结果
-| 文件                      | 作用       | 补充 |
-|-------------------------|----------|----|
-| road segmentation.ipynb | code     |    |
-| unet_graph              | 网络结构图    |    |
-| Unet_ushape.tex         | 可视化网络结构图 |    |
-| excel                   | 训练数据     |    |
+
+|文件|作用|补充|
+|--|--|--|
+|road segmentation.ipynb|code||
+|unet_graph|网络结构图||
+|Unet_ushape.tex|可视化网络||
+|excel |训练数据||
 
 
 如果您需要添加其他内容，请随时告诉我。谢谢！
